@@ -24,7 +24,7 @@ Responsável por ajustar os erros no código principal
 . 15 anos
 . É blogueira
 . Quer fazer direito e ter uma agência funerária
-eee5a0bd-1aab-40ef-af49-98e203e5aba8
+
 
 Leticia Rodrigues
 Responsável pela implementação das funcionalidades faltantes
@@ -59,5 +59,5 @@ Responsável por adicionar o nome do grupo, fotos e short bio de cada integrante
 . 16 anos
 . Quer cursar psicologia
 . Gosta de ler
-
+!  []_(https://github.com/Grupo-Medusa/Arduino_AC1/blob/main/37CF4E22-EAB6-45E7-AA1E-F5608D122314.JPG)
 
