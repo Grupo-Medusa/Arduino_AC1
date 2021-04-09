@@ -61,3 +61,6 @@ Responsável por adicionar o nome do grupo, fotos e short bio de cada integrante
 . Gosta de ler
 !  []_(https://github.com/Grupo-Medusa/Arduino_AC1/blob/main/37CF4E22-EAB6-45E7-AA1E-F5608D122314.JPG)
 
+Eu sou Derick do Grupo Medusa, e estou aqui para comentar sobre os pontos de código que meu grupo fez.
+
+Nós refizemos o circuito que o professor Léo pediu, fizemos também todos os códigos principais e ajustamos a leitura do sensor de temperatura e teste. Ao atingir 15° a Luz azul acende e quando apaga significa que a temperatura está abaixo do normal, corrigimos os códigos errados, e quando a luz vermelha é apertada a mesma acende. Acima de 16° o Led azul acende isso é a temperatura e foto resistor, pois conforme ele aumenta a luz verde acende, e o botão acende a luz vermelha, contudo as luzes não apagam, elas somente acendem. Acrescentamos uma linha escruta Vold Statup e como não somos muito inteligentes no assunto temos que acender manualmente.
